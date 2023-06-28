@@ -10,4 +10,5 @@ public class SlmExamApplication {
 		SpringApplication.run(SlmExamApplication.class, args);
 	}
 
+
 }
